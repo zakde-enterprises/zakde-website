@@ -1,0 +1,11 @@
+<section class="gallery">
+  <h2>Our Work</h2>
+  <div class="grid">
+    <img src="images/img1.jpg" alt="Work 1">
+    <img src="images/img2.jpg" alt="Work 2">
+    <img src="images/img3.jpg" alt="Work 3">
+    <img src="images/img4.jpg" alt="Work 4">
+    <img src="images/img5.jpg" alt="Work 5">
+    <img src="images/img6.jpg" alt="Work 6">
+  </div>
+</section>
